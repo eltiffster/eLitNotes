@@ -81,7 +81,7 @@
 * Twine (as platform)
   * incredibly accessible
   * as close to blank page in above as possible
-  * been incredibly important for marginalized peoples's narratives -- but how to avoid compartmentalizatio and encourage integration?
+  * been incredibly important for marginalized peoples's narratives -- but how to avoid compartmentalization and encourage integration?
   * Porpentine's "Creation Under Capitalism and the Twine Revolution": http://porpentine.tumblr.com/post/36550572972/creation-under-capitalism-and-the-twine-revolution
 * Squinkifier's Quing's Quest: http://squinky.me/2014/09/01/quings-quest-vii-the-death-of-videogames/
 * is embracing the call to code who we want to be?
@@ -139,6 +139,37 @@
   * http://www.mattiebrice.com/queer-as-in-fuck-me-a-design-manifesto/
 * ?: "algorithms must learn to tell stroies and scream in pain"
 * armed conflicts disconnect values from practice
+
+####Anastasia Salter, Diane Jakacki, Liz Losh, Stephanie Boluk
+
+* Anastasia Salter
+  * a girl gamer!
+  * Dungeons and Dragons as maybe the best example in terms of history
+    * used to be very sexist, but now...maybe...more fluid understanding of gender?
+    * not as overt as it could be
+* Diane Jakacki
+  * what do we mean by war games? (e.g. thermonuclear war, LEGO)
+  * Assassin's Creed -- Can I or should I continue to play it?
+  * what is cathartic may not be good modelling behaviour (as in stabbing people with a hidden blade)
+  * AC Syndicate
+    * Eve(e?) coded as intelligent, stealthy, and sly while Jacob is charismatic and brutish
+      * non-overt sexualization
+      * still encouraged brutishness eventually
+* Liz Losh
+  * intense affective labour of community management gendered female
+  * what if mechanics of violence and mechanics of intimacy were not so easily separable or binary?
+  * what if the military complex entertainment complex as origin of video games is not as hegemonic as we assume it to be?
+  * what is a wargame you would NOT design?
+    * as in what do you refuse to engage with/in vs. engage with/in critically?
+  * female computers and war game analysts often important figures in war
+  * FemTechNet's theoretical touchstones
+* Stephanie Boluk
+  * war on feminism (in games)
+  * think about antagonism against feminism in terms of the "spoilsport" and "feminist killjoy" figures
+  * writing against the ghost of the "magic circle jerk" (reactionary "dont touch my video games" misogynists who circle the wagons of the magic circle)
+    * games as escapist, immersive, depoliticized fantasy
+  * Ahmed 2010: "situations of conflict vilence, and power are read as about the unhappiness of feminists, rather than being what feminists are unhappy about"
+  * Huizinga: "the spoil-sport shatters the play-world itself"
 
 
 #Day 4: Creation and Teaching
