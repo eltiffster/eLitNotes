@@ -1,4 +1,4 @@
-#Day 5: ELO Conference
+##Day 5: ELO Conference
 
 
 ####Stuart Moulthrop - Intimate Mechanics: Play and Meaning in the Middle of Electronic Literature
@@ -172,7 +172,7 @@
   * Huizinga: "the spoil-sport shatters the play-world itself"
 
 
-#Day 4: Creation and Teaching
+##Day 4: Creation and Teaching
 
 * Concise description of what the work is about (or what's interesting about it)
 * style, the aesthetics
@@ -220,7 +220,7 @@
   * http://patrick-lemieux.com/projects/Metagaming/
   
 
-#Day 3: Curation
+##Day 3: Curation
 
 * Curator has 5 (main) jobs:
   1. put on a show
@@ -319,7 +319,7 @@
 * Pick among the works to decide which to display
 
 
-#Day 2: Theory and Reading Strategies
+##Day 2: Theory and Reading Strategies
 
 ####Theoretical Approaches
 * 2 kinds of approaches:
@@ -428,7 +428,7 @@ I created the source data with Pattern by parsing each text into individual sent
 * Can Lit Generator: http://canlitgenerator.com/
 
 
-#Day 1: Introduction, Survey of Genres
+##Day 1: Introduction, Survey of Genres
 
 ####Computer-generated (algorithmic?) Poetry
 * **ELit definition**: works with important liteary aspects that take advantage of the caps and contexts of standalone or networked comp (see Hayles); born-digital work
