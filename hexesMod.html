@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!--
+A modified version of Hexes by Nick Montfort. Prints a short phrase instead of one word. By Tiffany Chan, 2016.
+-->
+
+<!--
+Hexes
+copyright (c) 2015-2016 Nick Montfort <nickm@nickm.com>
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Based on a project by Sonny Rae Tempest,
+from a collaboration with Christopher T. Funkhouser.-->
+<style type="text/css">
+/* <![CDATA[ */
+body {
+ background:#000;
+ color:#ccc;
+ font-family:Optima, sans-serif;
+}
+a {
+ color:#117;
+ text-decoration:none;
+}
+#main {
+ margin:15% 0 0 0;
+ text-align: center;
+ font-size: 96pt;
+ font-weight: bold;
+padding-left: 7%;
+padding-right: 7%;
+}
+#main > div {
+  display: inline-block;
+}
+
+#period {
+    margin-left: -2.5%;
+}
+
+/* ]]> */
+</style>
+<script type="text/javascript">
+
+var t = 0,
+nouns =[
+'fee',
+'bee',
+'cab',
+'bae',
+'fad',
+'bed',
+'decade',
+'facade',
+'beebee',
+'ace',
+'dab',
+'cad',
+'Abe'
+];
+adjs = [
+'A decaf',
+'A faded',
+'Beaded',
+'Ace',
+'Bad',
+'Fab'
+];
+verbs = [
+'faced a',
+'ebbed a',
+'baded a',
+'ceded a',
+'added a',
+'faded a',
+'fabbed',
+'cabbed',
+'fed',
+'dab',
+'deface',
+'beaded',
+'deeded',
+'beefed',
+'efface',
+'bedded',
+'dabbed',
+'accede'
+];
+
+function rand_range(maximum) {
+    "use strict";
+    return Math.floor(Math.random() * (maximum + 1));
+}
+function choose(array) {
+    "use strict";
+    return array[rand_range(array.length - 1)];
+}
+function litany() {
+    "use strict";
+    var adjOne = document.getElementById('adjOne');
+    var nounFirst = document.getElementById('nounFirst');
+    var verbOne = document.getElementById('verbOne');
+    var nounSecond = document.getElementById('nounSecond');
+    var adj = choose(adjs);
+    var noun1 = choose(nouns);
+    var noun2 = choose(nouns);
+    var verb = choose(verbs);
+
+    adjOne.innerHTML = '<span style="color: #' + adj.replace(/\s+/g, '') + '">' + adj + '</span>';
+    verbOne.innerHTML = '<span style="color: #' + verb.replace(/\s+/g, '') + '">' + verb + '</span>';
+    nounFirst.innerHTML = '<span style="color: #' + noun1.replace(/\s+/g, '') + '">' + noun1 + '</span>';
+    nounSecond.innerHTML = '<span style="color: #' + noun2.replace(/\s+/g, '') + '">' + noun2 + '</span>';
+}
+function produce_litany() {
+    "use strict";
+    litany();
+    setInterval(litany, 6000);
+}
+
+</script>
+  <title>Hexes</title>
+</head>
+
+<body onload="produce_litany();">
+<div id="main">
+    <div id="adjOne">
+        <div>...</div>
+    </div>
+    <div id="nounFirst">
+        <div>...</div>
+    </div>
+    <div id="verbOne">
+        <div>...</div>
+    </div>
+    <div id="nounSecond">
+        <div>...</div>
+    </div>
+    <div id="period">.</div>    
+</div>
+
+</body>
+</html>
