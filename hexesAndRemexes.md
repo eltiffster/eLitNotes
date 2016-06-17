@@ -1,6 +1,6 @@
 ##Hexes and Remexes
 ####Tiffany Chan
-####June 2016
+*June 2016*
 
 In the Introduction to Electronic Literature course, we discussed an electronic poem by Nick Montfort called [“Hexes.”](http://nickm.com/poems/hexes) This poem consists of a black background with coloured words that flash on the screen in succession.
 
