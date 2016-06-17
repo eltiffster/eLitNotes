@@ -1,5 +1,4 @@
 ##Hexes and Remexes
-####DHUM 503, Introduction to Electronic Literature
 ####Tiffany Chan
 ####June 2016
 
@@ -24,6 +23,6 @@ When recreating Orphism in a digital space, however, one might also consider the
 
 <a href="https://twitter.com/the_ephemerides" target="_blank"><img src="spaceProbe.jpg"></a>
 
-*a screen capture of Allison Parrish's bot, ["The Ephemerides"](https://twitter.com/the_ephemerides).*
+*A screen capture of Allison Parrish's bot, ["The Ephemerides"](https://twitter.com/the_ephemerides).*
 
 In teasing out this thread, I find Allison Parrish’s discussion of computer-generated poetry in her talk, [“Exploring (Semantic) Space with (Literal) Robots,”](http://opentranscripts.org/transcript/semantic-space-literal-robots/) to be especially insightful. There, Parrish imagines her bot as a space probe that explores the vast linguistic unknown—the meanings and semantic spaces humans have yet to reach—and sends information back to its human creators. In this way, computers can circumvent or defy human assumptions to discover what alternative, unexpected meanings might be possible. But the “data” it collects, if meant for a human audience, ultimately relies on individuals to interpret and make sense of them. In both poems, as in all computer-generated poetry, meaning emerges in the interplay of human and computer vision.
